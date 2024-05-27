@@ -1,0 +1,10 @@
+- Visual studio에선 하나의 프로젝트에 하나의 main 함수만 존재해야한다
+- char : 1byte, short : 2byte, int : 4byte, long : 4byte, long long : 8byte, float : 4byte, double : 8byte
+- 주석 달기: ctrl + k, c,  주석 해제: ctrl + k, u 
+- 문자열 저장 방식 : char* name = "제니" or char name[5] = "제니"
+- int : %d, float: %.nf(n은 소수점 자리수), double : %.nlf, char : %c or %s
+- float 형 사용시 소수점 오류 발생하여, 주로 double 사용
+- 정수형과 정수형 사칙연산 결과는 정수형이 나옴 실수형(double)이 하나라도 들어가면 결과값은 실수형
+- 수 입력: scanf_s("%d", &변수명), 문자 입력: scanf_s("%d", &변수명)
+- 문자열 입력: scanf_s("%s", 변수명, (unsigned)sizeof(변수명))
+- 묵시적형변환 int i = 3.2, 명시적형변환 (double)n1  
