@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex6_\uD504\uB85C\uC81D\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex5.1_scanf_s\uC218\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex5.1_scanf_s\uC218\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex3_\uC0C1\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -52,14 +52,14 @@
               "RelativeDocumentMoniker": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c",
               "RelativeToolTip": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T06:28:00.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
               "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
               "RelativeDocumentMoniker": "ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ex5.1_scanf_s\uC218\uC785\uB825.c",
               "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex5.1_scanf_s\uC218\uC785\uB825.c",
               "RelativeDocumentMoniker": "ex5.1_scanf_s\uC218\uC785\uB825.c",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ex4_printf.c",
               "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c",
               "RelativeDocumentMoniker": "ex4_printf.c",
