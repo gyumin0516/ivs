@@ -3,36 +3,39 @@
   "WorkspaceRootPath": "C:\\C_Python\\source\\C\\ch02_variable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex6_\uD504\uB85C\uC81D\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex6_\uD504\uB85C\uC81D\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex5.1_scanf_s\uC218\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex5.1_scanf_s\uC218\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex5.1_scanf_s\uC218\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex5.1_scanf_s\uC218\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex3_\uC0C1\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex3_\uC0C1\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex3_\uC0C1\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex3_\uC0C1\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex2.3_\uC2E4\uC218\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex2.3_\uC2E4\uC218\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex2.3_\uC2E4\uC218\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex2.3_\uC2E4\uC218\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|C:\\C_Python\\source\\C\\ch02_variable\\ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82E20846-D88D-490C-B25F-72DB99368C6F}|ch02_variable.vcxproj|solutionrelative:ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch02_variable\\ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C_Python\\source\\C\\ch03_loop\\ex2.1_\uC0B0\uC220\uC5F0\uC0B0\uC790.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,56 +45,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
-              "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c",
-              "RelativeDocumentMoniker": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
-              "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c",
-              "RelativeToolTip": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-27T06:28:00.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
               "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
               "RelativeDocumentMoniker": "ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
               "RelativeToolTip": "ex5.2_scanf_s\uBB38\uC790\uC5F4\uC785\uB825.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T06:16:11.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ex5.1_scanf_s\uC218\uC785\uB825.c",
               "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex5.1_scanf_s\uC218\uC785\uB825.c",
               "RelativeDocumentMoniker": "ex5.1_scanf_s\uC218\uC785\uB825.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex5.1_scanf_s\uC218\uC785\uB825.c",
               "RelativeToolTip": "ex5.1_scanf_s\uC218\uC785\uB825.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T06:06:05.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ex4_printf.c",
               "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c",
               "RelativeDocumentMoniker": "ex4_printf.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex4_printf.c",
               "RelativeToolTip": "ex4_printf.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T05:41:09.681Z",
               "EditorCaption": ""
@@ -104,7 +94,7 @@
               "RelativeDocumentMoniker": "ex3_\uC0C1\uC218.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex3_\uC0C1\uC218.c",
               "RelativeToolTip": "ex3_\uC0C1\uC218.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T05:33:37.992Z",
               "EditorCaption": ""
@@ -117,7 +107,7 @@
               "RelativeDocumentMoniker": "ex2.3_\uC2E4\uC218\uD615.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex2.3_\uC2E4\uC218\uD615.c",
               "RelativeToolTip": "ex2.3_\uC2E4\uC218\uD615.c",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T05:15:55.423Z",
               "EditorCaption": ""
@@ -130,7 +120,7 @@
               "RelativeDocumentMoniker": "ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c",
               "RelativeToolTip": "ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T04:50:28.687Z",
               "EditorCaption": ""
@@ -143,9 +133,35 @@
               "RelativeDocumentMoniker": "ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
               "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
               "RelativeToolTip": "ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-27T04:31:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
+              "DocumentMoniker": "C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c",
+              "RelativeDocumentMoniker": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
+              "ToolTip": "C:\\C_Python\\source\\C\\ch02_variable\\ex6_\uD504\uB85C\uC81D\uD2B8.c",
+              "RelativeToolTip": "ex6_\uD504\uB85C\uC81D\uD2B8.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-27T06:28:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ex2.1_\uC0B0\uC220\uC5F0\uC0B0\uC790.c",
+              "DocumentMoniker": "C:\\C_Python\\source\\C\\ch03_loop\\ex2.1_\uC0B0\uC220\uC5F0\uC0B0\uC790.c",
+              "RelativeDocumentMoniker": "..\\ch03_loop\\ex2.1_\uC0B0\uC220\uC5F0\uC0B0\uC790.c",
+              "ToolTip": "C:\\C_Python\\source\\C\\ch03_loop\\ex2.1_\uC0B0\uC220\uC5F0\uC0B0\uC790.c",
+              "RelativeToolTip": "..\\ch03_loop\\ex2.1_\uC0B0\uC220\uC5F0\uC0B0\uC790.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-27T10:49:12.764Z",
               "EditorCaption": ""
             }
           ]
