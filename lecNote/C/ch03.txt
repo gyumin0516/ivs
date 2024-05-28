@@ -1,3 +1,11 @@
 code runner 코드실행 단축키 ctrl alt N
 한글 완성형(믜 같은 단어 저장 안됨) : EUC-KR 
 한글 조합형(초중종성을 따로 저장, 모든 글자 저장가능) : UTF-8 
+난수 생성시 srand((unsigned int)time(NULL))를 통한 초기화 필수
+논리 연산자 0 아니면 다 true, bool만 true, false 저장 가능
+삼항연산자 : 조건 ? (조건이 참일때의 값) : (조건이 거짓일 때 값)
+&&연산의 경우 좌항이 false인 경우 우항은 실행하지 않고 결과물 false로 출력
+||연산의 경우 좌항이 true인 경우 우항은 실행하지 않고 결과물 true로 출력
+break : 반복문 탈출, continue: 이번 반복 중단하고 다음으로 
+for문 조건을 공란으로 할 시 무한 반복
+i++ : 증감 연산자를 뒤에 붙일 시 printf 후에 실행됨
