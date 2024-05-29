@@ -1,14 +1,14 @@
 #include <stdio.h>
 // Call by value vs. reference
-// void´Â returnÀÌ ¾øÀ½ 
-void sum(int from, int to, int* tot); // from¿¡ int°ªÀÌ ÀÖ´Ù, tot°¡ °¡¸®Å°´Â ÁÖ¼Ò°ªÀ» °¡¸é int°ªÀÌ ÀÖ´Ù.
+// voidëŠ” returnê°’ì´ ì—†ìŒ 
+void sum(int from, int to, int* tot); // fromì— intê°’ì´ ìˆë‹¤, totê°€ ê°€ë¦¬í‚¤ëŠ” ì£¼ì†Œê°’ì„ ê°€ë©´ intê°’ì´ ìˆë‹¤.
 int main(void){
-    int a=1, b=10; int* tot;  // totÀÇ ÁÖ¼Ò°ªÀÌ °¡¸£Å°´Â °÷¿¡ int °ª ÀúÀåµÊ
+    int a=1, b=10; int* tot;  // totì˜ ì£¼ì†Œê°’ì´ ê°€ë¥´í‚¤ëŠ” ê³³ì— int ê°’ ì €ì¥ë¨
     sum(a, b, &tot);
-    printf("%dºÎÅÍ %d±îÁöÀÇ ´©ÀûÇÕÀº %d\n", a, b, tot);
+    printf("%dë¶€í„° %dê¹Œì§€ì˜ ëˆ„ì í•©ì€ %d\n", a, b, tot);
     a = 10; b = 100;
     sum(a, b, &tot);
-    printf("%dºÎÅÍ %d±îÁöÀÇ ´©ÀûÇÕÀº %d\n", a, b, tot);
+    printf("%dë¶€í„° %dê¹Œì§€ì˜ ëˆ„ì í•©ì€ %d\n", a, b, tot);
 }
 void sum(int from, int to, int* tot){
     *tot = 0;
